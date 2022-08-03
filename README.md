@@ -38,8 +38,8 @@ I'm a 23 years old developer and hacking since I was 16. I love to code and figu
 
 <div align="left">
   <a href="https://github.com/welitu">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=welitu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welitu&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=welitu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welitu&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <code>&nbsp;</code>
